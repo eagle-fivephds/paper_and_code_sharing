@@ -3,8 +3,8 @@ Papers and codes shared by team numbers.
 ## 4.4-4.10论文阅读任务：NIPS oral paper
 论文链接是[这个](https://nips.cc/Conferences/2018/Schedule?type=Oral)。具体安排如下：
 
-| 姓名 | 论文 | 主要内容 |
-| ------ | ------ | ------ |
+| 姓名 | 论文 | 
+| ------ | ------ | 
 | 马宁 | On Neuronal Capacity | |
 | 马宁 | On the Dimensionality of Word Embedding | |
 | 马宁 | Phase Retrieval Under a Generative Prior | |
